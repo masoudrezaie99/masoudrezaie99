@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some Javascript based applications.<br>🌱 I’m learning reactJs and nextJs.<br>👯 I’m looking to collaborate on Js based Products.<br>💬 Ask me about front-end tools.<br>📫 How to reach me: masoudrezaie1999@gmail.com.<br>⚡ Fun fact: I started my career as an engineer but found my true passion in coding.
+🔭 I’m currently working on some Javascript based applications.<br>🌱 I’m learning reactJs and nextJs.<br>👯 I’m looking to collaborate on Js based Products.<br>💬 Ask me about front-end tools.<br>📫 How to reach me: masoudrezaie1999@gmail.com.<br>⚡ Fun fact: I started my career as an architecture engineer but found my true passion in coding.
 
 
 # 💻 Tech Stack:
